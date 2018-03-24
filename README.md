@@ -2,7 +2,8 @@
 
 ```sh
 # clone it
-cd express-es6-rest-api
+git clone https://github.com/rupeshdabbir/movie-club.git
+cd movie-club
 
 # Make it your own
 rm -rf .git && git init && npm init
